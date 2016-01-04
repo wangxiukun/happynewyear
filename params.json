@@ -1,0 +1,1 @@
+{"name":"Happynewyear","tagline":"Happy New Year","body":"set.seed(31612310)\r\npaste0(sample(letters,5,T))\r\n\r\nset.seed(12353)\r\nsample(0:9,4,T)","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
